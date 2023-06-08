@@ -7,16 +7,16 @@
     "AI",
     "GPT"
   ],
-  "homepage": "https://github.com/weajer/prompthub#readme",
+  "homepage": "https://github.com/wzono/prompthub#readme",
   "bugs": {
-    "url": "https://github.com/weajer/prompthub/issues"
+    "url": "https://github.com/wzono/prompthub/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weajer/prompthub.git"
+    "url": "git+https://github.com/wzono/prompthub.git"
   },
   "license": "MIT",
-  "author": "Weajer Zon<weajer.zon@gmail.com> (https://github.com/weajer/)",
+  "author": "Wesley Zon<wzono.me@gmail.com> (https://github.com/wzono/)",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
