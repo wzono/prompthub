@@ -1,3 +1,3 @@
 <template>
-  <h1>Hello World!</h1>
+  <h1>Hello Prompts</h1>
 </template>
