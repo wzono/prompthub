@@ -1,0 +1,31 @@
+{
+  "name": "prompthub",
+  "private": true,
+  "description": "Your go-to platform for AI prompt collection and sharing, fostering collaboration and innovation in AI.",
+  "keywords": [
+    "prompt",
+    "AI",
+    "GPT"
+  ],
+  "homepage": "https://github.com/weajer/prompthub#readme",
+  "bugs": {
+    "url": "https://github.com/weajer/prompthub/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weajer/prompthub.git"
+  },
+  "license": "MIT",
+  "author": "Weajer Zon<weajer.zon@gmail.com> (https://github.com/weajer/)",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "postinstall": "nuxt prepare",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "nuxt": "^3.5.2"
+  }
+}
